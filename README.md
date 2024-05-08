@@ -34,7 +34,7 @@ Each sorting algorithm is implemented in different programming languages, allowi
 ## Languages
 
 Currently, sorting algorithms are implemented in the following programming languages:
-
+- C
 - Python
 - C++
 - Java
